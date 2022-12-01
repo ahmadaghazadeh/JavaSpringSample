@@ -1,5 +1,5 @@
 //package com.example.springboot;
-package Ahmad.Aghazadeh.JavaSpringSample
+package Ahmad.Aghazadeh.JavaSpringSample;
 import java.util.Arrays;
 
 import org.springframework.boot.SpringApplication;
